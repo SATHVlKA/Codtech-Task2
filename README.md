@@ -1,10 +1,3 @@
-# Codtech-Task2
-
-Name: Sathvika K <br>
-Company Name: Codtech IT Solutions <br>
-Domain: Machine Learning <br>
-Internship task: Linear Regression on Housing Prices <br>
-
 #Linear Regression on Housing Prices
 
 
