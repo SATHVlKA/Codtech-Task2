@@ -1,6 +1,3 @@
-#Linear Regression on Housing Prices
-
-
 # Linear Regression on Housing Prices
 
 ## Project Overview
